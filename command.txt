@@ -1,0 +1,13 @@
+1) git config --global user.name "junuaryal"
+2) git config --global user.email "junuaryalbct@kec.edu.np"
+3) git config --global --list
+4) git init
+5) git status
+6) history   
+7) ls-to list the files
+8) add file_name 
+9) git commit -m "add todo list items"
+
+ 
+      
+     
