@@ -1,3 +1,6 @@
 Finish c-programming assignment
-prepare a story for the github session 
+ 
 complete the practical
+solve old ques
+do practical assignments
+do maths assignments

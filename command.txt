@@ -7,6 +7,16 @@
 7) ls-to list the files
 8) add file_name 
 9) git commit -m "add todo list items"
+10) git log
+11) git log --oneline
+12) git diff
+13) git branch
+14) git branch feat/newtodo
+15) git checkout -b branch
+16) git commit -m "remove 1st task from todo"
+17) git switch master
+18) git restore
+
 
  
       
